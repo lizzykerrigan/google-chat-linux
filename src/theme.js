@@ -13,6 +13,10 @@ javascript: (function() {
                 background: #121212;
             }
 
+            .Fh7ONe {
+                background: transparent;
+            }
+
             .gguVqe .iXHk0b .YQsadf {
                 box-shadow: none;
             }
