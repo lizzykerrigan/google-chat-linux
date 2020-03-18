@@ -32,7 +32,7 @@ javascript: (function() {
 
             .WQKmIb .jGyvbd>.nF6pT:last-child {
                 background: transparent;
-                padding: 10px 0;
+                padding: 5px 0;
             }
 
             .CmMf8e {
@@ -386,7 +386,8 @@ javascript: (function() {
                 border: 1px solid #e0e0e0;
                 margin: 10px 0;
                 padding: 3px 10px;
-                background: #f9f9f9;
+                color: #fff;
+                background: #454545;
                 -webkit-border-radius: 4px;
                 -moz-border-radius: 4px;
                 border-radius: 4px;
