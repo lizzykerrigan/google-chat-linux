@@ -100,7 +100,7 @@ javascript: (function() {
             }
 
             .HQ8yf .RveJvd.RveJvd, .oG5Srb .RveJvd.RveJvd, .KV0KFc .ojqkvd {
-                color: #00ffff;
+                color: #05d4bf;
             }
 
             /* create room */
@@ -152,10 +152,10 @@ javascript: (function() {
                 color: #fff;
             }
             .nxYf0b {
-                background-color: #00FFFF;
+                background-color: #05d4bf;
             }
             .fWwrkf {
-                color: #00FFFF;
+                color: #05d4bf;
                 font-weight: 500;
             }
             .zxHSSc.FuHVqe {

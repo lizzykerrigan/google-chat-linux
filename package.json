@@ -1,5 +1,5 @@
 {
-  "name": "google-chat-linux",
+  "name": "google-chat-linux-dark",
   "version": "0.4.4-1",
   "description": "Google Hangouts Chat unofficial linux app",
   "main": "src/index.js",
@@ -13,7 +13,7 @@
   "author": "Roberto Fasciolo <rob@robyf.net> (https://www.robyf.net/)",
   "license": "WTFPL",
   "build": {
-    "appId": "Google Chat Linux",
+    "appId": "Google Chat Linux Dark",
     "extraResources": [
       "assets/icon/chat-favicon-new-non-notif-256dp.png",
       "assets/icon/chat-favicon-new-notif-256dp.png",
@@ -24,7 +24,7 @@
     ],
     "linux": {
       "desktop": {
-        "Name": "Google Chat Linux"
+        "Name": "Google Chat Linux Dark"
       },
       "category": "Network;InstantMessaging",
       "target": [
