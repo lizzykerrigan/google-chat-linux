@@ -472,6 +472,10 @@ javascript: (function() {
             .xWyObb{
                 fill: #d0d2fb;
             }
+            /* new thread */ 
+            .qnCNBb {
+                color: #fff;
+            }
             `,
     head = document.getElementsByTagName("head")[0],
     style = document.createElement("style"),
