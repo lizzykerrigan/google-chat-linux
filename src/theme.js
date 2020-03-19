@@ -456,6 +456,15 @@ javascript: (function() {
                 color: #fff;
             }
 
+            /* edit text */
+            .WQKmIb .oAzRtb {
+                color: #fff;
+            }
+
+            svg {
+                fill: #1e8e3e;
+            }
+
             /* barre en haut  */
             .QTQg5e {
                 background: #121212;
