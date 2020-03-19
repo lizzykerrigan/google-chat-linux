@@ -457,7 +457,7 @@ javascript: (function() {
             }
 
             /* edit text */
-            .WQKmIb .oAzRtb {
+            .WQKmIb .oAzRtb[aria-label="Edit message Message may not update in earlier versions of Hangouts."] {
                 color: #fff;
             }
 
