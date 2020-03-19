@@ -462,7 +462,7 @@ javascript: (function() {
             }
 
             svg {
-                fill: #1e8e3e;
+                fill: #05d4bf;
             }
 
             /* barre en haut  */
